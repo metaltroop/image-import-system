@@ -118,5 +118,5 @@ backend/instance/*.db
 
 /frontend/node_modules/
 docker-compose.microservices.yml
-docker-compose.yml
+# docker-compose.yml
 backend/.env
